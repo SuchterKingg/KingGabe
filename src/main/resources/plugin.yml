@@ -1,0 +1,7 @@
+name: KingGame
+version: '${project.version}'
+main: de.suchterking.kinggame.KingGame
+api-version: 1.19
+commands:
+  setup:
+    permission: kinggame.setup
